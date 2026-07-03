@@ -1,11 +1,11 @@
 {
   "product": "OJaimeBoost Professional Sensors Edition",
-  "version": "1.0.3",
-  "build": "20260702",
+  "version": "1.0.4",
+  "build": "20260703",
   "mandatory": false,
-  "title": "Actualizacion V1.0.3 GitHub Updates disponible",
-  "summary": "Actualizador independiente de Manus. La app consulta GitHub Raw como fuente principal y ojaimeboost.com como respaldo futuro. Mantiene Safe Sensors sin OJaimeSensors.exe.",
-  "download_url": "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0.3/OJaimeBoost_Professional_Sensors_Edition_V1_0_3_GitHub_Updates_Setup.exe",
-  "sha256": "1EFDA980614611955A62DBBEE68CE8AB0D95B2557F7EC690788988C3BC1177CD",
-  "release_notes_url": "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0.3"
+  "title": "Actualizacion V1.0.4 Dashboard Tiles disponible",
+  "summary": "Corrige el Dashboard para volver a vista de pantallitas tipo Task Manager, evita la lista larga con scroll en laptops y mantiene Safe Sensors.",
+  "download_url": "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0.4/OJaimeBoost_Professional_Sensors_Edition_V1_0_4_Dashboard_Tiles_Setup.exe",
+  "sha256": "224AEC013A05EEEE726C4B66F5F12F15CE6989B5C95CC535A84580D81C38CE8C",
+  "release_notes_url": "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0.4"
 }
