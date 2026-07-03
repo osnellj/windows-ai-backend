@@ -1,0 +1,11 @@
+{
+  "product": "OJaimeBoost Professional Sensors Edition",
+  "version": "1.0.5",
+  "build": "20260703",
+  "mandatory": false,
+  "title": "Actualizacion V1.0.5 Update Flow Fix disponible",
+  "summary": "Corrige el boton Descargas, evita cache del JSON y mantiene Dashboard Tiles + Safe Sensors.",
+  "download_url": "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_Setup.exe",
+  "sha256": "2B9E90ED7AE90CA4C4CB699892D7461B7501BEDEDDCF8F0F20540835FF120E4B",
+  "release_notes_url": "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0"
+}
