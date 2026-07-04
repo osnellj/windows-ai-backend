@@ -1,11 +1,11 @@
 ﻿{
     "mandatory":  false,
     "build":  "20260703",
-    "version":  "1.0.7",
-    "summary":  "Oculta rutas tecnicas de GitHub al cliente, muestra OJaimeSolutions Update Service, hace que Descargas consulte la ultima version, reduce reconstrucciones visuales durante actualizaciones y mejora ScanDisk con progreso por etapas.",
-    "title":  "Actualizacion V1.0.7 Update UX + ScanDisk Progress disponible",
+    "version":  "1.0.8",
+    "summary":  "Mejora responsividad en laptops 13-14 pulgadas, corrige indicador Business activo, agrega backup .reg de claves modificadas antes de optimizar y mantiene proteccion por punto de restauracion.",
+    "title":  "Actualizacion V1.0.8 Responsive + Registry Backup disponible",
     "download_url":  "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_Setup.exe",
-    "sha256":  "F5E3A7BDA1645A2A1D06E62529BFCA3F9B73F9ABA08B842FCB6389DE434AB00B",
+    "sha256":  "F5FCC555540530C49BD158454733E826171F10D6791971DD8C682A14F72A2C15",
     "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0",
     "product":  "OJaimeBoost Professional Sensors Edition"
 }
