@@ -1,11 +1,11 @@
-{
+﻿{
     "mandatory":  false,
     "build":  "20260706",
-    "version":  "1.0.17",
-    "summary":  "Mejora el reporte PDF: deduplica drivers, enumera acciones una por linea, agrega recomendaciones de upgrade RAM/SSD con enlaces Amazon afiliados tag osnellj-20 y mantiene responsive/restore guard.",
-    "title":  "Actualizacion V1.0.17 PDF Hardware Advisor disponible",
+    "version":  "1.0.19",
+    "summary":  "Corrige dashboard responsive para laptops HP/Lenovo Legion con scroll principal cuando la altura no alcanza. Mantiene enlaces Amazon del PDF con tag osnellj-20 y enlaces limpios.",
+    "title":  "Actualizacion V1.0.19 Responsive Amazon Fix disponible",
     "download_url":  "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_Setup.exe",
-    "sha256":  "D99CA0800B96E437549D466DAF38AC111DCCD8A8B81E72D17968CD3D02629885",
+    "sha256":  "17A5EB65CB8662435947186CC610F31B4940D4B68418ADC96362FDCF0B3558A0",
     "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0",
     "product":  "OJaimeBoost Professional Sensors Edition"
 }
