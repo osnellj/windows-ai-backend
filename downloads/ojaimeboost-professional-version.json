@@ -1,12 +1,15 @@
-﻿{
-    "mandatory":  false,
+{
+    "product":  "OJaimeBoost Professional Sensors Edition",
+    "latest_version":  "1.0.12",
+    "version":  "1.0.12",
     "build":  "20260705",
-    "version":  "1.0.11",
-    "summary":  "Refuerza deteccion de actualizaciones mostrando version instalada vs servidor, corrige el flujo del boton Descargas y mejora el dashboard en pantallas anchas/bajas como Lenovo Yoga 9i.",
-    "title":  "Actualizacion V1.0.11 Update + Yoga UX Fix disponible",
+    "mandatory":  false,
+    "title":  "Actualizacion V1.0.12 Update Asset Split disponible",
+    "summary":  "Separa la descarga estable de la web y el asset de actualizacion mas reciente. La web puede seguir apuntando a V1_0_Setup.exe mientras el actualizador abre el instalador de la ultima version.",
     "download_url":  "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_Setup.exe",
-    "sha256":  "9E4B36DB82286D7A323B38CD25BBD038E5FE0C990EEA6953BCE588D56404492D",
-    "latest_version":  "1.0.11",
-    "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0",
-    "product":  "OJaimeBoost Professional Sensors Edition"
+    "stable_download_url":  "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_Setup.exe",
+    "update_download_url":  "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_12_Update_Asset_Split_Setup.exe",
+    "latest_download_url":  "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_12_Update_Asset_Split_Setup.exe",
+    "sha256":  "EA724725E359C0E6D440EF9180F86449539E46251603411D978E453CBF82BBC4",
+    "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0"
 }
