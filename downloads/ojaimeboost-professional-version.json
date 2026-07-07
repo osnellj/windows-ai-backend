@@ -1,11 +1,11 @@
 ﻿{
-    "product":  "OJaimeBoost Professional Sensors Edition",
-    "version":  "1.0.20",
-    "build":  "20260706",
     "mandatory":  false,
-    "title":  "Actualizacion V1.0.20 Responsive Restore Cleanup disponible",
-    "summary":  "Corrige responsive para Lenovo Legion/HP con modo compacto de una columna y scroll principal. Mejora estados del punto de restauracion, limpieza temporal con conteo real y PDF con drivers deduplicados y enlaces Amazon tag osnellj-20.",
+    "build":  "20260707",
+    "version":  "1.0.23",
+    "summary":  "Mueve la licencia debajo del logo, elimina el boton repetido de optimizacion, agranda el menu lateral y convierte Actualizaciones en centro de Windows Update, drivers y perifericos. La actualizacion del software sigue en la cabecera.",
+    "title":  "Actualizacion V1.0.23 Update Center disponible",
     "download_url":  "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_Setup.exe",
-    "sha256":  "DDBFB727C13124A1155DF109F0A41D44BF1CBFF66CD04ABFE79A541DC43C667A",
-    "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0"
+    "sha256":  "5960CEA22D6183C429B901D7A21C6C52B42BEA6F182B19FA660949F32FED817B",
+    "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0",
+    "product":  "OJaimeBoost Professional Sensors Edition"
 }
