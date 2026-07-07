@@ -1,11 +1,11 @@
 ﻿{
-    "mandatory":  false,
+    "product":  "OJaimeBoost Professional Sensors Edition",
+    "version":  "1.0.24",
     "build":  "20260707",
-    "version":  "1.0.23",
-    "summary":  "Mueve la licencia debajo del logo, elimina el boton repetido de optimizacion, agranda el menu lateral y convierte Actualizaciones en centro de Windows Update, drivers y perifericos. La actualizacion del software sigue en la cabecera.",
-    "title":  "Actualizacion V1.0.23 Update Center disponible",
+    "mandatory":  false,
+    "title":  "Actualizacion V1.0.24 Professional Cards disponible",
+    "summary":  "Agrega tarjetas profesionales de Startup Review, SSD/HDD Optimize Drives, Driver Alerts y Protected Business Apps. Refuerza proteccion de apps empresariales y acciones seguras.",
     "download_url":  "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_Setup.exe",
-    "sha256":  "5960CEA22D6183C429B901D7A21C6C52B42BEA6F182B19FA660949F32FED817B",
-    "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0",
-    "product":  "OJaimeBoost Professional Sensors Edition"
+    "sha256":  "9E339324AD9C2DFA3E04579144E9287C57031CC20462266738DB537F1DFEF62D",
+    "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0"
 }
