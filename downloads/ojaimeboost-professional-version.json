@@ -1,11 +1,11 @@
 ﻿{
-    "product":  "OJaimeBoost Professional Sensors Edition",
-    "version":  "1.0.24",
-    "build":  "20260707",
     "mandatory":  false,
-    "title":  "Actualizacion V1.0.24 Professional Cards disponible",
-    "summary":  "Agrega tarjetas profesionales de Startup Review, SSD/HDD Optimize Drives, Driver Alerts y Protected Business Apps. Refuerza proteccion de apps empresariales y acciones seguras.",
+    "build":  "20260707",
+    "version":  "1.0.25",
+    "summary":  "Agrega OJaime AI Support Engineer, boton flotante Ask OJaime AI, modo Cliente/IT Pro, notas para PDF, Upgrade Advisor y enlaces Amazon con tag osnellj-20. Mantiene updater, PDF, licencia, sensores y branding actual.",
+    "title":  "Actualizacion V1.0.25 AI Support Engineer disponible",
     "download_url":  "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_Setup.exe",
-    "sha256":  "9E339324AD9C2DFA3E04579144E9287C57031CC20462266738DB537F1DFEF62D",
-    "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0"
+    "sha256":  "F2A4ADD1ADC5795C9121BA8918E0B8FC41A058F3FA88E4DB354EE7F2DABF8A11",
+    "release_notes_url":  "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0",
+    "product":  "OJaimeBoost Professional Sensors Edition"
 }
