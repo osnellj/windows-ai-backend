@@ -1,11 +1,11 @@
 {
   "product": "OJaimeBoost Professional Sensors Edition",
-  "version": "1.0.38",
-  "build": "20260713",
+  "version": "1.0.49",
+  "build": "20260721",
   "mandatory": false,
-  "title": "Actualizacion V1.0.38 Temperature Render Fix disponible",
-  "summary": "Corrige el recuadro de temperaturas para que el boton quede dentro de la tarjeta y reduce el parpadeo al cambiar de pantallas reconstruyendo solo el area principal.",
-  "download_url": "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_38_Temperature_Render_Fix_Setup.exe",
-  "sha256": "44494A4C514089081FDC636D468DBD9AD8F571D3660F3A97FDCC4FF5152B7EEB",
+  "title": "Actualizacion V1.0.49 AI Single Panel disponible",
+  "summary": "Corrige el dashboard para que al abrir el panel completo de OJaime AI no se muestren dos paneles de IA al mismo tiempo. Mantiene relojes, sensores, actualizador, licencia, PDF, ScanDisk y branding actual.",
+  "download_url": "https://github.com/osnellj/windows-ai-backend/releases/download/v1.0/OJaimeBoost_Professional_Sensors_Edition_V1_0_Setup.exe",
+  "sha256": "F1797EA312856D95BF834D95F7FDDD430453B86F3F16258FB49BD11E3138D4A0",
   "release_notes_url": "https://github.com/osnellj/windows-ai-backend/releases/tag/v1.0"
 }
